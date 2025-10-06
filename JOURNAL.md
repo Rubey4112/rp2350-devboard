@@ -33,3 +33,28 @@ For today, I finished wiring the decoupling capacitors, the 1.1V switching regul
 
   
 
+## 10/6/2025 - Schematic Finished  
+
+A lot of the time was spent reading the RP2350 hardware design documentation and learning what each components does. If I were to do this again then I will probably finish this way faster.
+
+To Do:
+- Assign footprints
+- PCB layout
+- Silkscreens!
+- Export fabrication files
+- Get quote from JLCPCB (and PCBWay)
+- Ship!
+
+Completed:
+- Schematic design
+  - MCU
+  - USB-C power
+  - Flash memory
+  - Crystal oscillator
+  - I/O headers
+  - Reset button
+
+![Screenshot from 2025-10-06 00-56-44.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Njk5LCJwdXIiOiJibG9iX2lkIn19--511a3d229c1bc9f897ee4f8a120ad65c26833eb4/Screenshot%20from%202025-10-06%2000-56-44.png)
+
+  
+
