@@ -4342,6 +4342,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "ABM8-272-T3"
+		(exclude_from_sim no)
+		(at 67.818 212.344 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3746dddd-75cb-4c98-81e2-b668823d7df5")
+	)
 	(text_box "Flash Memory"
 		(exclude_from_sim no)
 		(at 13.97 107.95 0)
@@ -7590,7 +7600,7 @@
 			)
 			(justify left)
 		)
-		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57db")
+		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57dc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 258.7013 111.76 0)
 			(effects
@@ -7612,7 +7622,7 @@
 			)
 			(justify left)
 		)
-		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57db")
+		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57dd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 258.7013 114.3 0)
 			(effects
@@ -7634,7 +7644,7 @@
 			)
 			(justify left)
 		)
-		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57db")
+		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57de")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 259.9108 124.46 0)
 			(effects
@@ -7656,7 +7666,7 @@
 			)
 			(justify left)
 		)
-		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57db")
+		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57df")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 259.9108 129.54 0)
 			(effects
@@ -7678,7 +7688,7 @@
 			)
 			(justify left)
 		)
-		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57db")
+		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57e0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 259.9108 127 0)
 			(effects
@@ -7700,7 +7710,7 @@
 			)
 			(justify left)
 		)
-		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57db")
+		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57e1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 258.7013 104.14 0)
 			(effects
@@ -7722,7 +7732,7 @@
 			)
 			(justify left)
 		)
-		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57db")
+		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57e2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 258.7013 106.68 0)
 			(effects
@@ -7744,7 +7754,7 @@
 			)
 			(justify left)
 		)
-		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57db")
+		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57e3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 258.7013 116.84 0)
 			(effects
@@ -7766,7 +7776,7 @@
 			)
 			(justify left)
 		)
-		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57db")
+		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57e4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 258.7013 119.38 0)
 			(effects
@@ -7788,7 +7798,7 @@
 			)
 			(justify left)
 		)
-		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57db")
+		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57e5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 259.9108 121.92 0)
 			(effects
@@ -7810,7 +7820,7 @@
 			)
 			(justify left)
 		)
-		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57db")
+		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57e6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 259.9108 132.08 0)
 			(effects
@@ -7832,7 +7842,7 @@
 			)
 			(justify left)
 		)
-		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57db")
+		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57e7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 259.9108 134.62 0)
 			(effects
@@ -7854,7 +7864,7 @@
 			)
 			(justify left)
 		)
-		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57db")
+		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57e8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 258.7013 96.52 0)
 			(effects
@@ -7876,7 +7886,7 @@
 			)
 			(justify left)
 		)
-		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57db")
+		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57e9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 259.9108 154.94 0)
 			(effects
@@ -7898,7 +7908,7 @@
 			)
 			(justify left)
 		)
-		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57db")
+		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57ea")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 259.9108 157.48 0)
 			(effects
@@ -7920,7 +7930,7 @@
 			)
 			(justify left)
 		)
-		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57db")
+		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57eb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 258.7013 99.06 0)
 			(effects
@@ -7942,7 +7952,7 @@
 			)
 			(justify left)
 		)
-		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57db")
+		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57ec")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 259.9108 137.16 0)
 			(effects
@@ -7964,7 +7974,7 @@
 			)
 			(justify left)
 		)
-		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57db")
+		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57ed")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 258.7013 101.6 0)
 			(effects
@@ -7986,7 +7996,7 @@
 			)
 			(justify left)
 		)
-		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57db")
+		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57ee")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 259.9108 139.7 0)
 			(effects
@@ -8008,7 +8018,7 @@
 			)
 			(justify left)
 		)
-		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57db")
+		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57ef")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 259.9108 149.86 0)
 			(effects
@@ -8030,7 +8040,7 @@
 			)
 			(justify left)
 		)
-		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57db")
+		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57f0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 259.9108 144.78 0)
 			(effects
@@ -8052,7 +8062,7 @@
 			)
 			(justify left)
 		)
-		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57db")
+		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57f1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 259.9108 152.4 0)
 			(effects
@@ -8074,7 +8084,7 @@
 			)
 			(justify left)
 		)
-		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57db")
+		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57f2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 259.9108 147.32 0)
 			(effects
@@ -8096,7 +8106,7 @@
 			)
 			(justify left)
 		)
-		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57db")
+		(uuid "05b24900-8bb3-4e39-8074-f9b4672b57f3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 259.9108 142.24 0)
 			(effects
@@ -8272,7 +8282,7 @@
 			)
 			(justify right)
 		)
-		(uuid "255a1c27-b01c-47ba-857f-1f1ec545e2b8")
+		(uuid "255a1c27-b01c-47ba-857f-1f1ec545e2b9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 172.0934 107.95 0)
 			(effects
@@ -8492,7 +8502,7 @@
 			)
 			(justify right)
 		)
-		(uuid "524d5f6c-d054-45fb-8b1a-3e27d92629ad")
+		(uuid "524d5f6c-d054-45fb-8b1a-3e27d92629ae")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 169.7121 116.84 0)
 			(effects
@@ -8514,7 +8524,7 @@
 			)
 			(justify right)
 		)
-		(uuid "524d5f6c-d054-45fb-8b1a-3e27d92629ad")
+		(uuid "524d5f6c-d054-45fb-8b1a-3e27d92629af")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 169.7121 114.3 0)
 			(effects
@@ -8536,7 +8546,7 @@
 			)
 			(justify right)
 		)
-		(uuid "524d5f6c-d054-45fb-8b1a-3e27d92629ad")
+		(uuid "524d5f6c-d054-45fb-8b1a-3e27d92629b0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 169.7121 111.76 0)
 			(effects
@@ -8646,7 +8656,7 @@
 			)
 			(justify left)
 		)
-		(uuid "57b7a103-4cb2-4b32-996f-7529278674fd")
+		(uuid "57b7a103-4cb2-4b32-996f-7529278674fe")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 265.7165 172.72 0)
 			(effects
@@ -8668,7 +8678,7 @@
 			)
 			(justify left)
 		)
-		(uuid "57b7a103-4cb2-4b32-996f-7529278674fd")
+		(uuid "57b7a103-4cb2-4b32-996f-7529278674ff")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 265.7165 170.18 0)
 			(effects
@@ -8690,7 +8700,7 @@
 			)
 			(justify left)
 		)
-		(uuid "57b7a103-4cb2-4b32-996f-7529278674fd")
+		(uuid "57b7a103-4cb2-4b32-996f-752927867500")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 265.7165 167.64 0)
 			(effects
@@ -9284,7 +9294,7 @@
 			)
 			(justify right)
 		)
-		(uuid "f3948f04-866d-48d9-b100-fb5186fd5b0c")
+		(uuid "f3948f04-866d-48d9-b100-fb5186fd5b0d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 174.8526 163.83 0)
 			(effects
@@ -9365,7 +9375,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 66.04 60.198 90)
 			(effects
 				(font
@@ -9433,7 +9443,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 158.75 76.708 90)
 			(effects
 				(font
@@ -9502,7 +9512,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical"
 			(at 337.82 127 0)
 			(effects
 				(font
@@ -9694,7 +9704,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 91.44 137.4648 0)
 			(effects
 				(font
@@ -9764,7 +9774,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 49.022 139.7 90)
 			(effects
 				(font
@@ -10027,7 +10037,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12"
 			(at 48.26 68.58 0)
 			(effects
 				(font
@@ -10268,7 +10278,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 262.5852 62.23 0)
 			(effects
 				(font
@@ -10336,7 +10346,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK"
 			(at 341.63 193.04 0)
 			(effects
 				(font
@@ -10471,7 +10481,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 239.7252 62.23 0)
 			(effects
 				(font
@@ -10538,7 +10548,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 254 88.138 90)
 			(effects
 				(font
@@ -10608,7 +10618,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "RP2350_60QFN_minimal:L_pol_2016"
 			(at 154.94 91.44 0)
 			(effects
 				(font
@@ -10677,7 +10687,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
 			(at 351.79 153.67 0)
 			(effects
 				(font
@@ -10749,7 +10759,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 82.2452 62.23 0)
 			(effects
 				(font
@@ -10819,7 +10829,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 308.3052 62.23 0)
 			(effects
 				(font
@@ -11020,7 +11030,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 251.1552 62.23 0)
 			(effects
 				(font
@@ -11089,7 +11099,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 102.5652 62.23 0)
 			(effects
 				(font
@@ -11355,7 +11365,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 78.74 226.822 90)
 			(effects
 				(font
@@ -11511,7 +11521,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 254 87.122 90)
 			(effects
 				(font
@@ -11578,7 +11588,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 44.45 147.828 90)
 			(effects
 				(font
@@ -11637,7 +11647,7 @@
 				)
 			)
 		)
-		(property "Value" "12 MHz( ABM8-272-T3)"
+		(property "Value" "12 MHz"
 			(at 67.564 214.376 90)
 			(effects
 				(font
@@ -11645,7 +11655,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm"
 			(at 67.31 222.25 0)
 			(effects
 				(font
@@ -11718,7 +11728,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 46.99 229.5652 0)
 			(effects
 				(font
@@ -11854,7 +11864,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 319.7352 62.23 0)
 			(effects
 				(font
@@ -11924,7 +11934,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 274.0152 62.23 0)
 			(effects
 				(font
@@ -12126,7 +12136,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 183.8452 55.88 0)
 			(effects
 				(font
@@ -12261,7 +12271,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 172.4152 55.88 0)
 			(effects
 				(font
@@ -12331,7 +12341,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 143.2052 96.52 0)
 			(effects
 				(font
@@ -12976,7 +12986,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 331.1652 62.23 0)
 			(effects
 				(font
@@ -13046,7 +13056,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 169.8752 85.09 0)
 			(effects
 				(font
@@ -13248,7 +13258,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 131.7752 96.52 0)
 			(effects
 				(font
@@ -13315,7 +13325,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 46.99 218.1352 0)
 			(effects
 				(font
@@ -13515,7 +13525,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 66.04 59.182 90)
 			(effects
 				(font
@@ -13648,7 +13658,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 353.06 199.898 90)
 			(effects
 				(font
@@ -13915,7 +13925,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 160.9852 55.88 0)
 			(effects
 				(font
@@ -13983,7 +13993,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK"
 			(at 33.02 140.97 0)
 			(effects
 				(font
@@ -14053,7 +14063,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 296.8752 62.23 0)
 			(effects
 				(font
@@ -14123,7 +14133,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 285.4452 62.23 0)
 			(effects
 				(font
@@ -14193,7 +14203,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical"
 			(at 364.49 127 0)
 			(effects
 				(font
